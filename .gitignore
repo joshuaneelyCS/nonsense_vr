@@ -70,3 +70,49 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Unity app files
+.GameStatistics
+.PlayerSettings
+
+/AssetBundles/
+
+# misc
+.DS_Store
+.AppleDouble
+.LSOverride
+
+._*
+
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+
+Thumbs.db
+Thumbs.db.meta
+ehthumbs.db
+Desktop.ini
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+.vs/
+.idea/
+.gradle/
+PackageBackups/
+# UWP builds
+/UWP/*
